@@ -17,10 +17,20 @@
 - Frontend: HTML/CSS/JS, Thymeleaf
 - Database: MySQL
 
-## 화면 예시
+### 화면 
 
-### 홈 화면
-![홈1](https://github.com/user-attachments/assets/e2e601d9-25bd-4073-8e34-853a06760aa9)
+#### 홈 화면
+플랫폼 첫 화면 슬라이드 형식으로 경매 관련 배너 노출 등드으드응
+![홈1](https:/![홈2](https://github.com/user-attachments/assets/1670ec35-9b3a-4b0d-b771-eed98cad86d9)
+![홈2](https://github.com/user-attachments/assets/5c043d72-aec9-40af-a612-07e73841a0d2)
+![홈3](https://github.com/user-attachments/assets/ed8d1965-5165-4f0e-a5fd-492506337ac4)
+
+
+#### 상품 목록 화면
+전체 상품 리스트, 필터링 기능 포함 / 상품 탐색, 카테고리/정렬 기능
+<img width="476" height="224" alt="기획경매페이지" src="https://github.com/user-attachments/assets/010ae6e6-79e4-432a-ae27-8e2053cd648a" />
+
+
 
 
 

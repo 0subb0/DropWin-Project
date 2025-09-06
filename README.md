@@ -13,8 +13,10 @@
 - Frontend: HTML/CSS/JS, Thymeleaf
 - Database: MySQL
 
-# 화면 예시
+## 화면 예시
 
-## 홈 화면
-![홈1](https://github.com/user-attachments/assets/28c8fa09-4796-43ce-92bd-af88577de5ba)
+### 홈 화면
+![홈1](https://github.com/user-attachments/assets/e2e601d9-25bd-4073-8e34-853a06760aa9)
+
+
 

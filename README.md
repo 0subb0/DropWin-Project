@@ -1,3 +1,7 @@
+
+<img width="500" height="500" alt="DropWin01" src="https://github.com/user-attachments/assets/811a89ef-6ddb-4a24-bd05-fbda2dddc440" />
+
+
 # DropWin - 경매형 중고 거래 플랫폼
 "실시간 경매와 입찰 기능을 제공하는 중고거래 플랫폼"
 
